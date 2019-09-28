@@ -1,5 +1,7 @@
 # Welcome to Hacktoberfest 2019  
 
+![hacktoberfest](hacktoberfest.png)
+
 ### What is Hacktoberfest?  
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. 
 It is open to everyone in their global community! 
@@ -8,14 +10,19 @@ after signing up on the [Hacktoberfest website](https://hacktoberfest.digitaloce
  
 # Getting Started
 * Register for Hacktoberfest [here](https://hacktoberfest.digitalocean.com/). 
-* Fork this repository on GitHub by clicking the ![s](/github_fork.png) <kbd><b>⚓Fork</b></kbd> 
+* Fork this repository on GitHub by clicking the <kbd><b>Fork</b></kbd> 
 button in the top right of this page. 
 * Clone your forked repo to your local machine.  
 `git clone https://github.com/YOUR-USERNAME/Hello-World.git`  
 Replace `YOUR-USERNAME` above with your GitHub username. 
 * Create a new branch.  
 `git checkout -b new-branch`
-* Add your contributions. 
+* Add your contributions.  
+3 easy ways to contribute to this project:
+  * Add a "Hello, World!" program in any language you like. 
+  * Add your name to the CONTRIBUTORS.md file. 
+  * Add your profile page to the profiles directory. 
+   
 * Commit and push your changes.
 ```
 git add -A 
@@ -29,4 +36,7 @@ clicking the <kbd><b>New pull request</b></kbd> button on your left-hand side of
 * Congratulations! You just opened a Pull Request. 
 
 # What next? 
-Go ahead and star this repository if you had fun!
+Go ahead and star this repository if you had fun! :star: 
+If you liked contributing to this project, please share and star this project to help as many people as possible to get started in Open Source.
+
+->:confetti_ball: :tada: Happy Hacktoberfest and Happy Contributing :tada: :confetti_ball:<- 
