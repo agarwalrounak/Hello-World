@@ -2,7 +2,7 @@
 
 ![hacktoberfest](hacktoberfest.png)
 
-### What is Hacktoberfest?  
+# What is Hacktoberfest?  
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. 
 It is open to everyone in their global community! 
 You can easily earn a limited edition T-shirt by submitting 4 pull requests to public GitHub repositories between October 1 and October 31 
@@ -39,4 +39,4 @@ clicking the <kbd><b>New pull request</b></kbd> button on your left-hand side of
 Go ahead and star this repository if you had fun! :star: 
 If you liked contributing to this project, please share and star this project to help as many people as possible to get started in Open Source.
 
-->:confetti_ball: :tada: Happy Hacktoberfest and Happy Contributing :tada: :confetti_ball:<- 
+<p align="center">:confetti_ball: :tada: <strong>Happy Hacktoberfest and Happy Contributing</strong> :tada: :confetti_ball:</p>
