@@ -16,7 +16,8 @@ If there is no language folder, make one, then add into it.
 
 ### 2. Add your name 
 Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file using the below example:  
-`- [Name](Link to GitHub profile)`
+`- [Name](Link to GitHub profile)`  
+Please follow alphabetical order.
 
 ### 3. Add your profile page
 Add your profile page named `Your_Name.md` to the [profiles](profiles) directory. Here is an example to get you started:  
@@ -35,6 +36,13 @@ The super cool projects that you have built.
 ### Hobbies & Interests
 The super awesome things that intrigue you and bring you joy.
 
+### Profiles
 [![GitHub][github-img]](Link to GitHub profile) 
 [![Twitter][twitter-img]](Link to Twitter profile)  
+
+<!-- Don't edit the below 2 lines -->
+[twitter-img]: https://i.imgur.com/wWzX9uB.png
+[github-img]: https://i.imgur.com/9I6NRUm.png
 ```
+
+Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged!
