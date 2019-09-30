@@ -7,7 +7,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 It is open to everyone in their global community! 
 You can easily earn a limited edition T-shirt by submitting 4 pull requests to public GitHub repositories between October 1 and October 31 
 after signing up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).   
-Read my Hacktoberfest 2018 experience here: [Hacktoberfest 2018 — My foray into the World of Open Source](https://medium.com/@agarwalrounak/hacktoberfest-2018-my-foray-into-the-world-of-open-source-a8bac8651ade)
+
+Read my Hacktoberfest 2018 experience here: _[Hacktoberfest 2018 — My foray into the World of Open Source](https://medium.com/@agarwalrounak/hacktoberfest-2018-my-foray-into-the-world-of-open-source-a8bac8651ade)_.
  
 # Getting Started
 * Register for Hacktoberfest [here](https://hacktoberfest.digitalocean.com/). 
