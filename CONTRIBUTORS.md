@@ -2,6 +2,7 @@
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
+- [Cresencio Flores](https://github.com/CresencioF)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Mykola Balabash](https://github.com/twilderan)
