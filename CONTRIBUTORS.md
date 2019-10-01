@@ -5,4 +5,5 @@
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der) 
 - [Mykola Balabash](https://github.com/twilderan)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
+- [Thomas Windt](https://github.com/WOLFI3654)
 - [viewless](https://github.com/viewless)
