@@ -8,5 +8,6 @@
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
+- [Samuel Tonini](https://github.com/samuel-tonini)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [viewless](https://github.com/viewless)
