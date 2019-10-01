@@ -8,9 +8,9 @@ Final Year Computer Engineering student.
 INDIA
 
 ### Projects
-StockIt: A chat-bot which will take user queries regarding equity stock and advice or recommend them on BUY / SELL / HOLD as per their queries regarding the stock. 
-The recommendation will be done based on historical trend and future analysis of the stocks.
-PICT Attendance: https://play.google.com/store/apps/details?id=com.piyush.pictattendance&hl=en_IN 
+StockIt: A chat-bot which will take user queries regarding equity stock and advice or recommend them on BUY / SELL / HOLD as per their queries regarding the stock.  
+The recommendation will be done based on historical trend and future analysis of the stocks.  
+PICT Attendance: https://play.google.com/store/apps/details?id=com.piyush.pictattendance&hl=en_IN   
 PrintIT: https://github.com/Piyush7890/PICTPrint3 
 
 ### Hobbies & Interests
