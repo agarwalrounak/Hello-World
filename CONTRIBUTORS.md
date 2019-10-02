@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
+- [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Luciano Santos](https://github.com/lucianosz7)
@@ -10,4 +11,3 @@
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [viewless](https://github.com/viewless)
-- [CherryKitten](https://github.com/CherryKitten)
