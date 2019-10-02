@@ -1,4 +1,4 @@
-Aamir Ahmad
+AAMIR AHMAD
 ## BIO ##
 I am a cyber security and web development enthusiast.
 
@@ -13,11 +13,11 @@ NOIDA,INDIA.
 
 ## HOBBIES ##
 I do standup comedy and poetries in my part time.
-Above all , I fork.
+
 
 
 ## PROFILES ##
-[![GitHub][github-img]]https://github.com/sickwiz
+[![GitHub][github-img]](https://github.com/sickwiz)
 [![Twitter][twitter-img]](https://twitter.com/_sickwiz)
 
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
