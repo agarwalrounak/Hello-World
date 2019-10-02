@@ -15,8 +15,10 @@
 - [Mykola Balabash](https://github.com/twilderan)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
+- [Rosario Galioto] (https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [viewless](https://github.com/viewless)
+
