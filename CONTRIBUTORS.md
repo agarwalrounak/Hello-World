@@ -1,5 +1,6 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [Ankit Chahar](https://github.com/AnkitChahar)
+- [Ayan Goel](https://github.com/GAyan17)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
