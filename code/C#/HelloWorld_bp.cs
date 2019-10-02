@@ -1,6 +1,6 @@
 void Main()
 {
-	Hello.World.ToString();
+	Console.WriteLine(Hello.World.ToString());
 }
 
 public static class Hello
