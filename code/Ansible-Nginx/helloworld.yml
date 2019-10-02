@@ -1,0 +1,8 @@
+---
+- name: Install nginx and publish Hello World
+  hosts: all
+  become: true
+  gather_facts: true
+  tags: helloworld
+  roles:
+    - helloworld
