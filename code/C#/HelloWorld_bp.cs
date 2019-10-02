@@ -1,6 +1,6 @@
 void Main()
 {
-	Console.WriteLine(Hello.World.ToString());
+    Console.WriteLine(Hello.World.ToString());
 }
 
 public static class Hello
@@ -9,7 +9,7 @@ public static class Hello
     {
         public static new string ToString()
         {
-		    return MethodBase.GetCurrentMethod().DeclaringType.ToString();
-		}
+            return MethodBase.GetCurrentMethod().DeclaringType.ToString();
+        }
     }
 }
