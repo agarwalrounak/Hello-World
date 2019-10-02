@@ -1,4 +1,4 @@
-## Piyush Mamidwar
+## jay dave
 
 ### Bio
 software developer
@@ -11,7 +11,7 @@ Music Genre classification,Mobile comparison website,banking software
 
 
 ### Hobbies & Interests
-exploring new languages,coding,music,movies,outdoor games.
+exploring new languages,coding,music,movies,outdoor games,bug bounty
 
 ### Profiles
 [![GitHub][github-img]](https://github.com/simson1) 
