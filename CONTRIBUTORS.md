@@ -19,4 +19,5 @@
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
+- [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
