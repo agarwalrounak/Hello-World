@@ -2,6 +2,7 @@
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ayan Goel](https://github.com/GAyan17)
+- [Arushi0830](https://github.com/arushi0830)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
