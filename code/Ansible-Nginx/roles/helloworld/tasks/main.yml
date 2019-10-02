@@ -1,0 +1,24 @@
+---
+- name: install nginx
+  apt:
+    name: nginx
+
+- name: create hello world directory
+  file:
+    path: "/var/www/helloworld"
+    state: directory
+
+- name: copy hello world file to server
+  copy:
+    src: "../templates/index.html"
+    dest: "/var/www/helloworld/index.html"
+
+- name: apply nginx config
+  template:
+    src: default.j2
+    dest: "/etc/nginx/sites-available/default"
+
+- name: restart nginx
+  systemd:
+    name: nginx
+    state: restarted

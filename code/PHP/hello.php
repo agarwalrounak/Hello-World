@@ -1,0 +1,4 @@
+<?php
+echo "HELLO WORLD";
+echo "MY FIRST CONTRIBUTION FOR HACKTOBER";
+?>
