@@ -20,3 +20,4 @@
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [viewless](https://github.com/viewless)
+- [CryptoSingh](https://github.com/CryptoSingh1337)
