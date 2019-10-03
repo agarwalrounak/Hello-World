@@ -9,6 +9,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
+- [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
