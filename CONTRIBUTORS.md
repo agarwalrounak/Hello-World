@@ -6,6 +6,7 @@
 - [Ayan Goel](https://github.com/GAyan17)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
+- [Chandra Mouli](https://github.com/codechandra)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
