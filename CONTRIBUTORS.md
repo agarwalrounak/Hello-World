@@ -1,5 +1,5 @@
 <!-- Please follow ALPHABETICAL ORDER -->
-- [AAMIR AHMAD] (https://github.com/sickwiz)
+- [AAMIR AHMAD](https://github.com/sickwiz)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
