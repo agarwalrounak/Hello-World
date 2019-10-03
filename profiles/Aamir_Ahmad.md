@@ -8,7 +8,7 @@ NOIDA,INDIA.
 
 ## PROJECTS ##
 1- I made a project on smart parking systems in my first semester of Bachelors in Computer Science.
-2- Currently working on a web application which is a college based Journey planner.
+2- Currently working on a web application alongwith three team members, which is a college based Journey planner.
  
 
 ## HOBBIES ##
