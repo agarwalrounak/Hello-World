@@ -8,6 +8,7 @@
 - [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
+- [dark-shadow7](https://github.com/dark-shadow7)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Loris Gabriele](https://github.com/Pyr0x1)
