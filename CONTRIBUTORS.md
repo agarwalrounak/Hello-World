@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [Ajey Prasand](https://github.com/ajeyprasand)
+  [Adrian Martin](https://github.com/amgdevelop)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Ayan Goel](https://github.com/GAyan17)
