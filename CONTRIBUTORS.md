@@ -19,6 +19,7 @@
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Mykola Balabash](https://github.com/twilderan)
+- [pwr1ght](https://github.com/pWr1ght)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Ricardo Borges](https://github.com/ricardo93borges)
@@ -31,4 +32,3 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
-- [pwr1ght](https://github.com/pWr1ght)
