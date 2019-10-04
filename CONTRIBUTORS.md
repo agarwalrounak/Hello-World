@@ -16,6 +16,7 @@
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
+- [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Thomas Windt](https://github.com/WOLFI3654)
