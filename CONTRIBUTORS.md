@@ -21,6 +21,7 @@
 - [Mykola Balabash](https://github.com/twilderan)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
+- [Ricardo Borges](https://github.com/ricardo93borges)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
