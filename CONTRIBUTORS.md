@@ -31,3 +31,4 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
+- [Paritosh Dahiya](https://github.com/hnhparitosh)
