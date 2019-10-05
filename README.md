@@ -73,7 +73,7 @@ The super awesome things that intrigue you and bring you joy.
 
 Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged!
 
-# What next? 
+# What next??? 
 - :star: Go ahead and star this repository if you had fun! :star:   
 - If you liked contributing to this project, please share and star this project to help as many people as possible to get started in Open Source.
 - Browse more such issues to contribute to on [GitHub](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues).
