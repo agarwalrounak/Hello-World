@@ -20,5 +20,5 @@ I do photography and love travelling to places!
 [![Twitter][twitter-img]](https://twitter.com/lakkshh)
 
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
-[twitter-img]:https://i.imgur.com/9I6NRUm
+[github-img]: https://i.imgur.com/9I6NRUm.png
 
