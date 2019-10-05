@@ -18,6 +18,7 @@
 - [Kevin Ward](https://github.com/Blueward12)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Mehul Garg](https://github.com/gargmehul10)
 - [Mykola Balabash](https://github.com/twilderan)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
