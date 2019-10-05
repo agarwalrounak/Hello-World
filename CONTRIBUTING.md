@@ -1,4 +1,5 @@
 # Contributing to Hello-World
+
 This project is built for the purpose of getting you introduced to Open Source and encouraging your contributions, 
 big or small. In short, we are open to nearly all contributions as long as they do not complicate the process for others. 
 Don't remove any files or content when adding your changes. 
