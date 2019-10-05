@@ -16,7 +16,7 @@ I do photography and love travelling to places!
 
 
 ## PROFILES ##
-[![GitHub][github-img]](https://github.com/lakkshh)
+[![GitHub][github-img]](https://github.com/lakkshh/)
 [![Twitter][twitter-img]](https://twitter.com/lakkshh)
 
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
