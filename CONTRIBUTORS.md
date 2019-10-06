@@ -13,6 +13,7 @@
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
+- [Erol Aliyev](https://github.com/erolaliyev)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
