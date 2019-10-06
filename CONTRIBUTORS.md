@@ -31,3 +31,4 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
+- [Quoc Anh Nguyen](https://github.com/quocanh261997)
