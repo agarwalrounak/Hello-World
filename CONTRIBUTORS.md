@@ -33,3 +33,4 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
+- [Vlad Zaporozhskyi](https://github.com/thezapovlad)
