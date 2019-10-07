@@ -12,6 +12,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
+- [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Jatin Narula](https://github.com/jatin96)
