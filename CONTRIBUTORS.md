@@ -7,7 +7,7 @@
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Ayan Goel](https://github.com/GAyan17)
-- [Bhavesh Gupta](https://guthub.com/bhavesh-g)
+- [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
 - [Chandra Mouli](https://github.com/codechandra)
