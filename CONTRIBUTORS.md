@@ -5,6 +5,7 @@
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anshu Kumari](https://github.com/anshukcse)
+- [Ariq Heritsa](https://github.com/Heritsam)
 - [Ayan Goel](https://github.com/GAyan17)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
