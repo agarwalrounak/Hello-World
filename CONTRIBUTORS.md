@@ -12,6 +12,7 @@
 - [Chandra Mouli](https://github.com/codechandra)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
+- [Dallin Reeves](https://github.com/dallin91)
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
