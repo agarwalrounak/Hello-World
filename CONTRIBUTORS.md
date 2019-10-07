@@ -12,6 +12,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
+- [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
@@ -31,5 +32,5 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
-- [DzunN86](https://github.com/DzunN86)
+
 
