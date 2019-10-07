@@ -34,3 +34,4 @@
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
+- [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
