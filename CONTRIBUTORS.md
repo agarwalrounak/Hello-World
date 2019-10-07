@@ -19,6 +19,7 @@
 - [Kevin Ward](https://github.com/Blueward12)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
 - [Momozor](https://github.com/momozor)
 - [Mykola Balabash](https://github.com/twilderan)
