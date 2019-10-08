@@ -30,6 +30,7 @@
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
+- [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
 - [Ricardo Borges](https://github.com/ricardo93borges)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
 - [Sahildeep Singh](https://github.com/sahilcodes)
@@ -37,9 +38,9 @@
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
+- [tonzsm](https://github.com/tonzsm)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
-- [tonzsm](https://github.com/tonzsm)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 
 <!-- Please follow ALPHABETICAL ORDER -->
