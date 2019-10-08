@@ -1,4 +1,5 @@
 <!-- Please follow ALPHABETICAL ORDER -->
+
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
@@ -16,6 +17,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
+- [Devan Moses](https://github.com/mosesds)
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
@@ -36,7 +38,7 @@
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
 - [Ricardo Borges](https://github.com/ricardo93borges)
-- [Rounak Agarwal](https://github.com/agarwalrounak) 
+- [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
