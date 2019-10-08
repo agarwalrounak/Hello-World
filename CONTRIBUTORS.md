@@ -40,6 +40,7 @@
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
+- [TheSolution90](https://github.com/thesolution90)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
