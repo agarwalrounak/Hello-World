@@ -36,6 +36,7 @@
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
 - [Ricardo Borges](https://github.com/ricardo93borges)
+- [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rounak Agarwal](https://github.com/agarwalrounak) 
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
