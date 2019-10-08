@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Ajey Prasand](https://github.com/ajeyprasand)
+- [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Ankit Chahar](https://github.com/AnkitChahar)
