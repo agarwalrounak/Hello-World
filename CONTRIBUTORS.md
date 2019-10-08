@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Ajey Prasand](https://github.com/ajeyprasand)
+- [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
@@ -14,12 +15,19 @@
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
+- [Erol Aliyev](https://github.com/erolaliyev)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
+- [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Megha Agarwal](https://github.com/meghaa105P)
+- [Mehul Garg](https://github.com/gargmehul10)
+- [Momozor](https://github.com/momozor)
 - [Mykola Balabash](https://github.com/twilderan)
+- [nilesh](https://github.com/nileshsahitya9)
+- [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Ricardo Borges](https://github.com/ricardo93borges)
@@ -32,5 +40,6 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
+- [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 
-
+<!-- Please follow ALPHABETICAL ORDER -->
