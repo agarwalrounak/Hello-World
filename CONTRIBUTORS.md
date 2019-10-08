@@ -13,6 +13,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
+- [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Jatin Narula](https://github.com/jatin96)
