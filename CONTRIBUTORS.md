@@ -19,6 +19,7 @@
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
+- [Hans](https://github.com/hungvu193)
 - [HRAnkit](https://github.com/hrankit)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
