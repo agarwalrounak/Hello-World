@@ -44,6 +44,7 @@
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
+- [Siddharth Raj](https://github.com/iamsidofficial)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
