@@ -6,6 +6,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
+- [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
