@@ -46,5 +46,6 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
+- [Yash Soni](https://github.com/yashsoni27)
 
 <!-- Please follow ALPHABETICAL ORDER -->
