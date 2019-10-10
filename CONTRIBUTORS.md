@@ -7,6 +7,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](hhttps://github.com/andre-lee)
 - [Ankit Chahar](https://github.com/AnkitChahar)
+- [Ankit Garg](https://github.com/ankitgargsma)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anshu Kumari](https://github.com/anshukcse)
