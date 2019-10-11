@@ -6,6 +6,7 @@
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](hhttps://github.com/andre-lee)
+- [Aniket Sharma](https://github.com/aniketsharma00411)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
