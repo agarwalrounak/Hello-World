@@ -22,20 +22,21 @@ Please follow alphabetical order.
 
 ### 3. Add your profile page
 Add your profile page named `Your_Name.md` to the [profiles](profiles) directory. Here is an example to get you started:  
-```
 ## Your Name
+Abhishek Paul
+
 
 ### Bio
-A short line about you. 
+I am 3rd year CS student in RCCIIT.
 
 ### Location
-Home Sweet Home.
+Kolkata
 
 ### Projects
-The super cool projects that you have built. 
+I have built a college notice webpage where important messages are shared between students and teachers.
 
 ### Hobbies & Interests
-The super awesome things that intrigue you and bring you joy.
+I love write story and poems.
 
 ### Profiles
 [![GitHub][github-img]](Link to GitHub profile) 
