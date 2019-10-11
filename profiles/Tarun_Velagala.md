@@ -10,7 +10,7 @@
 
 
 ### Location
-    Tanuku, ANdhra Pradesh, India
+    Tanuku, ANdhra Pradesh, India.
 
 ### Projects 
     Friends of Numbers 

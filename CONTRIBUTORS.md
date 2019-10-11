@@ -51,6 +51,7 @@
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [Srajal Agrawal](https://github.com/srajalagr)
+- [Tarun Kumar](https://github.com/tarun1642)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
