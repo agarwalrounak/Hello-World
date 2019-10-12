@@ -1,7 +1,7 @@
 ## Suyash Bhiste
 
 ### Bio
-I am an aspirant learner in field of cloud computing and AI. Currently I consider myself as android developer.
+I am an aspirant learner in field of cloud computing and AI. Currently, I consider myself as android developer.
 
 ### Location
 Pune, Maharashtra, India
