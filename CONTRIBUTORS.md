@@ -50,6 +50,7 @@
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
+- [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
