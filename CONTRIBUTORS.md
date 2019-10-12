@@ -54,5 +54,5 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
+.
 <!-- Please follow ALPHABETICAL ORDER -->
