@@ -58,5 +58,6 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
+- [Dede Saepulloh](https://github.com/dedesaepulloh)
 
 <!-- Please follow ALPHABETICAL ORDER -->
