@@ -36,6 +36,7 @@
 - [Mehul Garg](https://github.com/gargmehul10)
 - [Momozor](https://github.com/momozor)
 - [Mykola Balabash](https://github.com/twilderan)
+- [Navdeep Hada](https://github.com/hadanavdeep)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
 - [Nishant Tilve](https://github.com/Antimatter98)
