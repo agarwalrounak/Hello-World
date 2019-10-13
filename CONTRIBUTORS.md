@@ -29,6 +29,7 @@
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
+- [Kunal Kumar](https://github.com/kunal164107)
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
