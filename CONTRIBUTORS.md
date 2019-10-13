@@ -58,5 +58,7 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
+- [Walter Brahman](https://github.com/veugelenw)
+
 
 <!-- Please follow ALPHABETICAL ORDER -->
