@@ -26,6 +26,7 @@
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
+- [Harsh Tank](https://github.com/harshtank)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
