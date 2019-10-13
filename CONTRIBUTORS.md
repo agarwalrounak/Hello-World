@@ -28,6 +28,7 @@
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [Juli Krue](https://github.com/JuliKrue)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
