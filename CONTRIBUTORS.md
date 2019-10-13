@@ -10,6 +10,7 @@
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anshu Kumari](https://github.com/anshukcse)
+- [Arnav Saha](https://github.com/sahaarnav3)
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
@@ -58,5 +59,4 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
 <!-- Please follow ALPHABETICAL ORDER -->
