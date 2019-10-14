@@ -44,6 +44,7 @@
 - [Mykola Balabash](https://github.com/twilderan)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
+- [NischalKanishk](https://github.com/NischalKanishk)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
