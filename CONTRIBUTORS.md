@@ -13,6 +13,7 @@
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashutosh Singh](https://github.com/zohan4sh)
+- [Asmi Badole](https://github.com/asmibadole)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
@@ -66,5 +67,4 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
 <!-- Please follow ALPHABETICAL ORDER -->
