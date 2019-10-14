@@ -58,6 +58,7 @@
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [Srajal Agrawal](https://github.com/srajalagr)
+- [stokoe0990](https://github.com/stokoe0990)
 - [TheSolution90](https://github.com/thesolution90)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
