@@ -24,26 +24,21 @@ Please follow alphabetical order.
 Add your profile page named `Your_Name.md` to the [profiles](profiles) directory. Here is an example to get you started:  
 ```
 ## Your Name
+Uzair Korai
 
 ### Bio
-A short line about you. 
+Front-End Developer JavaScript React,
 
-### Location
-Home Sweet Home.
-
-### Projects
-The super cool projects that you have built. 
-
-### Hobbies & Interests
-The super awesome things that intrigue you and bring you joy.
+### Project
+https://github.com/uzairkorai/Tada
 
 ### Profiles
-[![GitHub][github-img]](Link to GitHub profile) 
-[![Twitter][twitter-img]](Link to Twitter profile)  
+[![GitHub][github-img]](https://github.com/uzairkorai) 
+[![Twitter][twitter-img]](https://twitter.com/uzairkorai9)  
 
 <!-- Don't edit the below 2 lines -->
-[twitter-img]: https://i.imgur.com/wWzX9uB.png
-[github-img]: https://i.imgur.com/9I6NRUm.png
+[twitter-img]: https://pbs.twimg.com/profile_images/1113669348659474433/Qi8eNubK_400x400.png
+[github-img]: https://avatars2.githubusercontent.com/u/38845776?s=460&v=4
 ```
 
 Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged!

@@ -4,6 +4,7 @@
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
+- [Uzair Korai](https://github.com/uzairkorai)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](hhttps://github.com/andre-lee)
