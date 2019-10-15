@@ -30,6 +30,7 @@
 - [Hans](https://github.com/hungvu193)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
+- [Jamille Bittencourt](https://github.com/millbittencourt) 
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
