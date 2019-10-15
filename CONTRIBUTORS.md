@@ -32,6 +32,7 @@
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Lejla I](https://github.com/Ley2717)
 - [Lilian F](https://github.com/lilianferreira)
