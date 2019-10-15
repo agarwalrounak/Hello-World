@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Adrian Martin](https://github.com/amgdevelop)
@@ -11,6 +11,7 @@
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anshu Kumari](https://github.com/anshukcse)
+- [Asmae Kabbaz](https://github.com/AsmaeK)
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
