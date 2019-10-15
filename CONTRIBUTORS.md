@@ -10,6 +10,7 @@
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
+- [Anna Fennley](https://github.com/Annacodes1093)
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashutosh Singh](https://github.com/zohan4sh)
