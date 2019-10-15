@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
+- [Uzair Korai](https://github.com/uzairkorai)
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
