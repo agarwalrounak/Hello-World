@@ -14,6 +14,7 @@
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
+- [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
