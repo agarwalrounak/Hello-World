@@ -43,6 +43,7 @@
 - [Momozor](https://github.com/momozor)
 - [Mykola Balabash](https://github.com/twilderan)
 - [Naveenraj M](https://github.com/naveenrajm7)
+- [Navya Tatikonda](https://github.com/NavyaTatikonda)
 - [nilesh](https://github.com/nileshsahitya9)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
