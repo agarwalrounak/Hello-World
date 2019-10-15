@@ -56,6 +56,7 @@
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
+- [Shubhi Lohani](https://github.com/ShubhiL)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [TheSolution90](https://github.com/thesolution90)
