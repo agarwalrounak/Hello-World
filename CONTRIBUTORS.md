@@ -40,6 +40,7 @@
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
+- [Micael Pereira](https://github.com/micaelalex)
 - [Momozor](https://github.com/momozor)
 - [Mykola Balabash](https://github.com/twilderan)
 - [Naveenraj M](https://github.com/naveenrajm7)
