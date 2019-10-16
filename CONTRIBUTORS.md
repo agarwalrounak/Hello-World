@@ -30,6 +30,7 @@
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
+- [Ethan Roos](https://github.com/ethanr33)
 - [Hans](https://github.com/hungvu193)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
