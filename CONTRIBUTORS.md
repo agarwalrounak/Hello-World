@@ -61,6 +61,7 @@
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
+- [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
