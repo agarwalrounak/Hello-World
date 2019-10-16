@@ -35,6 +35,7 @@
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [jphearse](https://github.com/jphearse)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Kushantha Charuka](https://github.com/Kushiya)
