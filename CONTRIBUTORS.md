@@ -67,6 +67,7 @@
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [TheSolution90](https://github.com/thesolution90)
+- [Thomas Scharke](https://github.com/tscharke)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
