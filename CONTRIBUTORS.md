@@ -25,6 +25,7 @@
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
 - [DzunN86](https://github.com/DzunN86)
+- [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Hans](https://github.com/hungvu193)
