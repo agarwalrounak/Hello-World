@@ -1,7 +1,7 @@
 ## Asmae Kabbaz
 
 ### Bio
-    I'm a 23-year old Business student and i'am also interested in programming coding and cyber security.
+    I'm a 22-year old Business student and i'am also interested in programming coding and cyber security.
 
 ### Location
     Home Sweet Home = El Jadida, Morocco
