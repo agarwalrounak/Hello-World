@@ -13,6 +13,7 @@
 - [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Ariq Heritsa](https://github.com/Heritsam)
+- [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
