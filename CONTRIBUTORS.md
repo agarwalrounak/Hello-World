@@ -41,7 +41,6 @@
 - [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
 - [Momozor](https://github.com/momozor)
-- [Mohit Verma](https://github.com/mohitmverma)
 - [Mykola Balabash](https://github.com/twilderan)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
