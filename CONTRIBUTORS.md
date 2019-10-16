@@ -6,7 +6,7 @@
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
-- [Andre-Lee](hhttps://github.com/andre-lee)
+- [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Garg](https://github.com/ankitgargsma)
