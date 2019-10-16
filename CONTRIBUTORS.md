@@ -5,7 +5,7 @@
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
-- [Andre-Lee](hhttps://github.com/andre-lee)
+- [Andre-Lee](https://github.com/andre-lee)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
 - [Anna Giliaeva](https://github.com/Nekonokuro)
@@ -28,6 +28,7 @@
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Kevin Ward](https://github.com/Blueward12)
+- [Kushantha Charuka](https://github.com/Kushiya)
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
@@ -57,6 +58,5 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-- [Kushantha Charuka](https://github.com/Kushiya)
 
 <!-- Please follow ALPHABETICAL ORDER -->
