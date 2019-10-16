@@ -1,4 +1,4 @@
-s<!-- Please follow ALPHABETICAL ORDER -->
+<!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Ajey Prasand](https://github.com/ajeyprasand)
