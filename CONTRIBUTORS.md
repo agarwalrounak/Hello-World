@@ -34,6 +34,7 @@
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
+- [Jenna Lee] (https://github.com/jennajlee92)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kevin Ward](https://github.com/Blueward12)
