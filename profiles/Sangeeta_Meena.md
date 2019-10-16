@@ -8,9 +8,7 @@ Third year student pursuing Int. M.Tech. in Mathematics and Computing at IIT (IS
 INDIA
 
 ### Hobbies & Interests
--Coding
--Web Development
--Dancing
+Coding,web development and dancing.
 
 ### Profiles
 [![GitHub][github-img]](https://github.com/sangeetameena580) 
