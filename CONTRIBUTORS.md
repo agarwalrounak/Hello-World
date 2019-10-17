@@ -82,5 +82,5 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
+- [Will Gebbie](https://github.com/will-gebbie)
 <!-- Please follow ALPHABETICAL ORDER -->
