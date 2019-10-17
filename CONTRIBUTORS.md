@@ -53,6 +53,7 @@
 - [nilesh](https://github.com/nileshsahitya9)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
+- [Prateek kocher](https://github.com/prateekk2001)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
