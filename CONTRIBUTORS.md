@@ -37,6 +37,7 @@
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Karan Singh](https://github.com/karansingh97)
+- [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Kushantha Charuka](https://github.com/Kushiya)
 - [Lejla I](https://github.com/Ley2717)
