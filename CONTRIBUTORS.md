@@ -60,6 +60,7 @@
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shridhar Ravi](https://github.com/shridharravi97)
