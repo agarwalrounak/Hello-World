@@ -1,5 +1,9 @@
 public class HelloWorld {
 	public static void main (String[] args) {
-		System.out.println("Hello, World!");
+    try {
+		  System.out.println("Hello, World!");
+    } catch (Exception e) {
+      System.out.println("Hello, World failed!");
+    }
 	}
 }
