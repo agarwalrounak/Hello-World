@@ -20,6 +20,7 @@
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [dark-shadow7](https://github.com/dark-shadow7)
+- [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
@@ -58,6 +59,5 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-- [Dede Saepulloh](https://github.com/dedesaepulloh)
 
 <!-- Please follow ALPHABETICAL ORDER -->
