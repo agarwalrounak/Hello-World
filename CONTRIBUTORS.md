@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Adrian Martin](https://github.com/amgdevelop)
@@ -18,6 +18,7 @@
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
+- [Bittu Benny](https://github.com/bittubenny123)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
 - [Chandra Mouli](https://github.com/codechandra)
