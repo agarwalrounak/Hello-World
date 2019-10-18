@@ -40,6 +40,7 @@
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Kushantha Charuka](https://github.com/Kushiya)
+- [Kuwarbir Singh](https://github.com/kuwarbir)
 - [Lejla I](https://github.com/Ley2717)
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
