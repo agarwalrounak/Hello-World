@@ -1,0 +1,6 @@
+program helloworld;
+var text : string;
+begin
+  text := 'Hello World';
+	write(text);
+end.
