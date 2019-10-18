@@ -69,6 +69,7 @@
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
+- [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [Sripad](https://github.com/TVSSSRIPAD)
