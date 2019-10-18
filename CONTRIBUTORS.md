@@ -18,6 +18,7 @@
 - [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Ayan Goel](https://github.com/GAyan17)
+- [b3p0](https://github.com/b3p0)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [CherryKitten](https://github.com/CherryKitten)
