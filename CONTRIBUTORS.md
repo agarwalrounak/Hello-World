@@ -54,6 +54,7 @@
 - [Momozor](https://github.com/momozor)
 - [Mush60](https://github.com/mush60)
 - [Mykola Balabash](https://github.com/twilderan)
+- [Navdeep Hada](https://github.com/hadanavdeep)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
 - [Nishant Tilve](https://github.com/Antimatter98)
