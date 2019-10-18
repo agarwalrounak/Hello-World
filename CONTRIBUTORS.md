@@ -17,6 +17,7 @@
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh Singh](https://github.com/zohan4sh)
+- [Austin Hayford](https://github.com/Bobsizlak)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
