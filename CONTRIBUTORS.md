@@ -90,6 +90,6 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
+- [Bhavya Verma](https://github.com/verma-bhavya)
 
 <!-- Please follow ALPHABETICAL ORDER -->
