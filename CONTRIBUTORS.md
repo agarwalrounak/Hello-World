@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Abid Saleem](https://github.com/abidsal04)
@@ -37,6 +37,7 @@
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [John Zissimou](https://github.com/johnziss9)
 - [Juli Krue](https://github.com/JuliKrue)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
