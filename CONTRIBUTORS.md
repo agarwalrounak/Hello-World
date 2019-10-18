@@ -6,6 +6,7 @@
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
+- [Alok](https://github.com/Alokkumar8)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
