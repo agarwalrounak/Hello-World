@@ -1,5 +1,4 @@
 <!-- Please follow ALPHABETICAL ORDER -->
-- [Ankit Aggarwal](https://github.com/0395ankit)
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Abid Saleem](https://github.com/abidsal04)
@@ -10,6 +9,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
+- [Ankit Aggarwal](https://github.com/0395ankit)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Garg](https://github.com/ankitgargsma)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
