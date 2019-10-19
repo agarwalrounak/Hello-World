@@ -90,6 +90,7 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Nemanja Jeremic](https://github.com/nemanjajeremic)
 
 
 <!-- Please follow ALPHABETICAL ORDER -->
