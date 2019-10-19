@@ -20,6 +20,7 @@
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
+- [Camden Richter](https://github.com/irlac)
 - [CherryKitten](https://github.com/CherryKitten)
 - [Chandra Mouli](https://github.com/codechandra)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
