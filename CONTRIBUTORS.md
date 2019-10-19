@@ -90,6 +90,7 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
 
 
 <!-- Please follow ALPHABETICAL ORDER -->
