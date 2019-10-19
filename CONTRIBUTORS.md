@@ -5,6 +5,7 @@
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
+- [Aman Sohani](https://github.com/amansohani222)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](hhttps://github.com/andre-lee)
 - [Ankit Chahar](https://github.com/AnkitChahar)
