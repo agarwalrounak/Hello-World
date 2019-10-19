@@ -91,6 +91,7 @@
 - [Vishal Arora](https://github.com/WishAllVA)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Sandeep Singh Negi](https://github.com/sandeepnegi1996)
 
 
 <!-- Please follow ALPHABETICAL ORDER -->
