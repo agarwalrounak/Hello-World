@@ -28,7 +28,8 @@
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
-- [drmyuu](https://github.com/drmyuu)
+- [drmyuu](https://github.com/
+- [Driviz](https://github.com/Driviz)
 - [DzunN86](https://github.com/DzunN86)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
