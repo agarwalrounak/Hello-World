@@ -68,6 +68,7 @@
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Ryan Papazoglou](https://github.com/RyanPapazoglou)
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
