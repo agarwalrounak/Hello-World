@@ -30,6 +30,7 @@
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
 - [DzunN86](https://github.com/DzunN86)
+- [Eduardo Souza](https://github.com/SouzaEduardoAC)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Hans](https://github.com/hungvu193)
