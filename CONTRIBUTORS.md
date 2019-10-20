@@ -35,6 +35,7 @@
 - [Hans](https://github.com/hungvu193)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
+- [James](https://github.com/Trinculo54)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Juli Krue](https://github.com/JuliKrue)
@@ -90,6 +91,5 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
 
 <!-- Please follow ALPHABETICAL ORDER -->
