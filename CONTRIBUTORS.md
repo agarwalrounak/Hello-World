@@ -4,6 +4,7 @@
 - [Abid Saleem](https://github.com/abidsal04)
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
+- [Akshay A S](https://github.com/akshay512)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
