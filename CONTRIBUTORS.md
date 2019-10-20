@@ -90,6 +90,6 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
+- [Ashish Yadav](https://github.com/ashiishme)
 
 <!-- Please follow ALPHABETICAL ORDER -->
