@@ -8,6 +8,7 @@
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](https://github.com/andre-lee)
+- [Anglina Bhambra](https://github.com/AnglinaBhambra)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Garg](https://github.com/ankitgargsma)
