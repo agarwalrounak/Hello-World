@@ -8,6 +8,7 @@
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
+- [Anand Bambhania](https://github.com/anandb89)
 - [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
 - [Ankit Chahar](https://github.com/AnkitChahar)
