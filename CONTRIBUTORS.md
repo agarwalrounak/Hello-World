@@ -82,6 +82,7 @@
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
+- [Shubhendu Dandapat](https://github.com/whitehawk0011)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
