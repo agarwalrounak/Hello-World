@@ -63,6 +63,7 @@
 - [nilesh](https://github.com/nileshsahitya9)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan) 
+- [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachit Garg](https://github.com/rstar900)
