@@ -90,7 +90,7 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-- [Abhishek Singh](https://github.com/n6wbi6
+- [Abhishek Singh](https://github.com/n6wbi6)
 
 
 <!-- Please follow ALPHABETICAL ORDER -->
