@@ -19,6 +19,7 @@
 - [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh garg](https://gitHub.com/ashutosh321607)
 - [Ashutosh Singh](https://github.com/zohan4sh)
+- [Asmi Badole](https://github.com/asmibadole)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
@@ -98,6 +99,5 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
 
 <!-- Please follow ALPHABETICAL ORDER -->
