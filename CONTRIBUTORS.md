@@ -1,4 +1,5 @@
 <!-- Please follow ALPHABETICAL ORDER -->
+
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Abid Saleem](https://github.com/abidsal04)
@@ -36,6 +37,7 @@
 - [Hans](https://github.com/hungvu193)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
+- [ibin Xavier](https://github.com/dibinxavier)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Juli Krue](https://github.com/JuliKrue)
