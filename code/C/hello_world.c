@@ -1,7 +1,5 @@
-/* This Program prints Hello World */
-#include <stdio.h>
-int main()
+#include<stdio.h>
+void main()
 {
-    printf("Hello World!\n");
-    return 0;
+	printf("Hello, World!");
 }
