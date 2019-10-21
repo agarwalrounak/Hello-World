@@ -97,6 +97,7 @@
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
+- [Vishal Sharma] (https://www.vishalsharma.dev)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 
