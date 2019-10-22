@@ -99,5 +99,6 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Yashbir Singh](https://github.com/yashbir)
 
 <!-- Please follow ALPHABETICAL ORDER -->
