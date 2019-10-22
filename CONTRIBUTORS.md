@@ -54,6 +54,7 @@
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Luigi von Alkier](https://github.com/Gino89)
 - [Manu Sharma] (https://github.com/iammanusharma)
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
