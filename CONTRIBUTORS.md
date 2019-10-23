@@ -86,6 +86,7 @@
 - [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
 - [Srajal Agrawal](https://github.com/srajalagr)
+- [Sriharan Manogaran](https://github.com/sriharan16897)
 - [Sripad](https://github.com/TVSSSRIPAD)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Tarun Kumar](https://github.com/tarun1642)
