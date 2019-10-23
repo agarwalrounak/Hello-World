@@ -37,6 +37,7 @@
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
 - [DzunN86](https://github.com/DzunN86)
+- [Einstein Gleeson Pinto](https://github.com/einstein156)
 - [Elijah Shackelford](https://github.com/eshack94)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
