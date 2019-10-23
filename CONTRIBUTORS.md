@@ -78,6 +78,7 @@
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
 - [Ricardo Borges](https://github.com/ricardo93borges)
 - [Ritik Gupta](https://github.com/ritik-gupta)
+- [Rory Coleman](https://github.com/RC61)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Sagar Yadav](https://github.com/itsnotsagar)
