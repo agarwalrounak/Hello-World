@@ -6,6 +6,7 @@
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
+- [Alaor Resende](https://github.com/alaor)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [André Cristian de Oliveira](https://github.com/acristoliv)
