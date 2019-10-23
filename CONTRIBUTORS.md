@@ -75,6 +75,7 @@
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan) 
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
+- [Prasanna Thapa](https://github.com/prasannathapa)
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachit Garg](https://github.com/rstar900)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
