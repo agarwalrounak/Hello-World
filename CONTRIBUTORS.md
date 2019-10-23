@@ -114,5 +114,6 @@
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Yash Verma](https://github.com/yash-sudo)
 
 <!-- Please follow ALPHABETICAL ORDER -->
