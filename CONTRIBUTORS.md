@@ -23,6 +23,7 @@
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Asmi Badole](https://github.com/asmibadole)
 - [Ayan Goel](https://github.com/GAyan17)
+- [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Camilo Caquimbo](https://github.com/camilocaquimbo)
