@@ -81,6 +81,7 @@
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
+- [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
