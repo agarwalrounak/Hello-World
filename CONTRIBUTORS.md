@@ -90,6 +90,7 @@
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [Sriharan Manogaran](https://github.com/sriharan16897)
 - [Sripad](https://github.com/TVSSSRIPAD)
+- [Surafel Hailu](https://github.com/surafelh)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Tarun Kumar](https://github.com/tarun1642)
 - [TheSolution90](https://github.com/thesolution90)
