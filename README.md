@@ -1,18 +1,6 @@
-# Welcome to Hacktoberfest 2019  
-
-![hacktoberfest](hacktoberfest.png)
-
-# What is Hacktoberfest?  
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. 
-It is open to everyone in their global community! 
-You can easily earn a limited edition T-shirt by submitting 4 pull requests to public GitHub repositories between October 1 and October 31 
-after signing up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).   
-
-Read my Hacktoberfest 2018 experience here: _[Hacktoberfest 2018 — My foray into the World of Open Source](https://medium.com/@agarwalrounak/hacktoberfest-2018-my-foray-into-the-world-of-open-source-a8bac8651ade)_.
- 
+# Welcome to Hello-World  
+### This repository serves as a learning tool for new contributors to open-source, but ***pull requests here won’t count toward Hacktoberfest***. 
 # Getting Started
-* Register for Hacktoberfest [here](https://hacktoberfest.digitalocean.com/). 
-
 * Fork this repository on GitHub by clicking the <kbd><b>Fork</b></kbd> 
 button in the top right of this page. 
 
@@ -90,7 +78,7 @@ Choose one of above or all 3, make a pull request for your contributions and wai
 - If you liked contributing to this project, please share and star this project to help as many people as possible to get started in Open Source.
 - Browse more such issues to contribute to on [GitHub](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues).
 
-<p align="center">:confetti_ball: :tada: <strong>Happy Hacktoberfest and Happy Contributing</strong> :tada: :confetti_ball:</p>
+<p align="center">:confetti_ball: :tada: <strong>Happy Contributing</strong> :tada: :confetti_ball:</p>
 
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
 [github-img]: https://i.imgur.com/9I6NRUm.png
