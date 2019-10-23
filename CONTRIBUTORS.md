@@ -47,6 +47,7 @@
 - [ibin Xavier](https://github.com/dibinxavier)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Juli Krue](https://github.com/JuliKrue)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
