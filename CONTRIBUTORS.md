@@ -23,6 +23,7 @@
 - [Ayan Goel](https://github.com/GAyan17)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
+- [Camilo Caquimbo](https://github.com/camilocaquimbo)
 - [Chandra Mouli](https://github.com/codechandra)
 - [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
