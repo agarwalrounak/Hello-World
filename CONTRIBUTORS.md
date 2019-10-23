@@ -64,6 +64,7 @@
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
+- [Misael Ma](https://github.com/MisaelMa)
 - [Momozor](https://github.com/momozor)
 - [Mush60](https://github.com/mush60)
 - [Mykola Balabash](https://github.com/twilderan)
