@@ -92,6 +92,7 @@
 - [Sripad](https://github.com/TVSSSRIPAD)
 - [Surafel Hailu](https://github.com/surafelh)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
+- [Tamas Csonka](https://github.com/csnktms)
 - [Tarun Kumar](https://github.com/tarun1642)
 - [TheSolution90](https://github.com/thesolution90)
 - [Thomas Windt](https://github.com/WOLFI3654)
