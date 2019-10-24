@@ -113,6 +113,7 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Viktoria Cseke](https://github.com/FurfurV)
+- [Virendra Singh] (https://github.com/virendra56422)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 
