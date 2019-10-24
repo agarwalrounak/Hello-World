@@ -74,6 +74,7 @@
 - [NischalKanishk](https://github.com/NischalKanishk)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan) 
+- [Numaan](https://github.com/numaan-esc)
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Prateek kocher](https://github.com/prateekk2001)
@@ -115,5 +116,4 @@
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
 <!-- Please follow ALPHABETICAL ORDER -->
