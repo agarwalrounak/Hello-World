@@ -115,5 +115,6 @@
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Charlie Tran] (https://github.com/QuantumT95)
 
 <!-- Please follow ALPHABETICAL ORDER -->
