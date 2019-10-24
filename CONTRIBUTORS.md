@@ -50,6 +50,7 @@
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Juli Krue](https://github.com/JuliKrue)
 - [Karan Singh](https://github.com/karansingh97)
+- [Kingrootid](https://github.com/kingrootid)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Kunal Kumar](https://github.com/kunal164107)
