@@ -45,6 +45,7 @@
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [ibin Xavier](https://github.com/dibinxavier)
+- [Ingi Rodr](https://github.com/IngiRodr)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
