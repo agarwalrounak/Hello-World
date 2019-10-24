@@ -115,5 +115,6 @@
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Atharva Sohani](https://github.com/Sohaniatharva)
 
 <!-- Please follow ALPHABETICAL ORDER -->
