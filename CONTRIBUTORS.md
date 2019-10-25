@@ -72,6 +72,7 @@
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
 - [NischalKanishk](https://github.com/NischalKanishk)
+- [Nishant Kumar Singh](https://github.com/nishantnksingh)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan) 
 - [nymika](https://github.com/nymika)
