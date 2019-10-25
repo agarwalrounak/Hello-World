@@ -108,6 +108,7 @@
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
 - [tulika kundu](https://github.com/tulikakundu)
+- [Uday](https://github.com/udaykumarjangra)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
