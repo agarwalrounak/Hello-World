@@ -49,6 +49,7 @@
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Juli Krue](https://github.com/JuliKrue)
+- [Julia Lehoux](https://github.com/JuliaLehoux)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
