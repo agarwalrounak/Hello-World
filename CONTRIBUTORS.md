@@ -31,6 +31,7 @@
 - [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
+- [Cseh Daniel](https://github.com/c0d4ry)
 - [Dallin Reeves](https://github.com/dallin91)
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
