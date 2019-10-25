@@ -77,6 +77,7 @@
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Prateek kocher](https://github.com/prateekk2001)
+- [Priyom Mushahary](https://github.com/Pyro13m)
 - [Rachit Garg](https://github.com/rstar900)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
