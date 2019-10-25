@@ -78,6 +78,7 @@
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachit Garg](https://github.com/rstar900)
+- [Rahul Nainala](https://github.com/rahulnainala)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
