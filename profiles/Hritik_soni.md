@@ -1,13 +1,13 @@
 ## Hritik Soni
 
 ### Bio
-I am learning to code. 
+I am learning to code.
 
 ### Location
 IIIT-Lucknow
 
 ### Projects
-Nothing. 
+Nothing.
 
 ### Hobbies & Interests
 Coding.
@@ -15,7 +15,7 @@ Gaming.
 
 
 ### Profiles
-[![GitHub][github-img]](https://github.com/iamhritik55) 
+[![GitHub][github-img]](https://github.com/iamhritik55)
 
 
 <!-- Don't edit the below 2 lines -->
