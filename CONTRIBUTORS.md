@@ -25,6 +25,7 @@
 - [Ayan Goel](https://github.com/GAyan17)
 - [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
+- [Bruno] (https://github.com/BrunoEMendes)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Camilo Caquimbo](https://github.com/camilocaquimbo)
 - [Chandra Mouli](https://github.com/codechandra)
