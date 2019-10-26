@@ -37,6 +37,7 @@
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
+- [chudau](https://github.com/chudau)
 - [DzunN86](https://github.com/DzunN86)
 - [Elijah Shackelford](https://github.com/eshack94)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
