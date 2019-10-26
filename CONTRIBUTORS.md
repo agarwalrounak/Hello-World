@@ -47,6 +47,7 @@
 - [Hans](https://github.com/hungvu193)
 - [Harsh Tank](https://github.com/harshtank)
 - [HRAnkit](https://github.com/hrankit)
+- [Homard](https://github.com/homard)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [ibin Xavier](https://github.com/dibinxavier)
 - [Jatin Narula](https://github.com/jatin96)
