@@ -50,6 +50,7 @@
 - [Homard](https://github.com/homard)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [ibin Xavier](https://github.com/dibinxavier)
+- [Iranildo Batalha](https://github.com/iranildobatalha)
 - [Jatin Narula](https://github.com/jatin96)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
