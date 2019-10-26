@@ -85,6 +85,7 @@
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
+- [Ray Blair](https://github.com/rayblair06)
 - [Ricardo Borges](https://github.com/ricardo93borges)
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rory Coleman](https://github.com/RC61)
