@@ -4,6 +4,7 @@
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Abid Saleem](https://github.com/abidsal04)
 - [Adrian Martin](https://github.com/amgdevelop)
+- [Afroz Chakure] (https://github.com/afrozchakure)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alyssa Columbus](https://github.com/acolum)
