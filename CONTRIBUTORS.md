@@ -93,6 +93,7 @@
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Shubhi Lohani](https://github.com/ShubhiL)
+- [Shvetal](https://github.com/verv0eren)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
