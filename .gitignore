@@ -52,4 +52,5 @@ config.json
 
 *.sublime-project
 *.sublime-workspace
-/bin/
+
+.settings/
