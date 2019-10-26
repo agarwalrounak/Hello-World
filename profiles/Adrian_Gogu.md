@@ -14,7 +14,6 @@ I love my family,music,coding,drugs and sometimes work-out(Yes that's true).
 
 ### Profiles
 [![GitHub][github-img]](https://github.com/inefabilis) 
-[![Twitter][twitter-img]](Link to Twitter profile) //don't have one
 
 <!-- Don't edit the below 2 lines -->
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
