@@ -92,6 +92,7 @@
 - [Ray Blair](https://github.com/rayblair06)
 - [Ricardo Borges](https://github.com/ricardo93borges)
 - [Ritik Gupta](https://github.com/ritik-gupta)
+- [Ritik Kumar](https://github.com/Ritikkumar1998)
 - [Rory Coleman](https://github.com/RC61)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
