@@ -15,3 +15,7 @@ I love reading. I would also like to try hands on digital painting but right now
 ### Profiles
 [![Github][github-img]](https://github.com/verv0eren)
 [![Twitter][twitter-img]](https://twitter.com/verv0eren)
+
+<!-- Don't edit the below 2 lines -->
+[twitter-img]: https://i.imgur.com/wWzX9uB.png
+[github-img]: https://i.imgur.com/9I6NRUm.png
