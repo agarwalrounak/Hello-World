@@ -56,6 +56,7 @@
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Juli Krue](https://github.com/JuliKrue)
 - [Karan Singh](https://github.com/karansingh97)
+- [Karthik Ianala](https://github.com/karthikianala)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
 - [Kunal Kumar](https://github.com/kunal164107)
