@@ -43,6 +43,7 @@
 - [Elijah Shackelford](https://github.com/eshack94)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
+- [Everton Braga](https://github.com/evertonrbraga)
 - [Gagandeep Sing](https://github.com/gagan0183)
 - [Hans](https://github.com/hungvu193)
 - [Harsh Tank](https://github.com/harshtank)
