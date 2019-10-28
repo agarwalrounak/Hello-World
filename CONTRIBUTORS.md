@@ -126,6 +126,7 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Viktoria Cseke](https://github.com/FurfurV)
+  [Vivek Praharsha](https://github.com/VPraharsha3)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 
