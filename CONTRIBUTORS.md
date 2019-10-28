@@ -72,6 +72,7 @@
 - [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
 - [Micael Pereira](https://github.com/micaelalex)
+- [Miguel de Oliveira](https://github.com/migvanderlei)
 - [Misael Ma](https://github.com/MisaelMa)
 - [Momozor](https://github.com/momozor)
 - [Mush60](https://github.com/mush60)
