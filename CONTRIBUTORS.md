@@ -106,6 +106,7 @@
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
+- [Sangeeta Meena](https://github.com/sangeetameena580)
 - [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
