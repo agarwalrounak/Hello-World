@@ -50,6 +50,7 @@
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Everton Braga](https://github.com/evertonrbraga)
 - [Gagandeep Sing](https://github.com/gagan0183)
+- [Gautam Gaurav](https://github.com/gautam-gaurav)
 - [Hans](https://github.com/hungvu193)
 - [Harsh Tank](https://github.com/harshtank)
 - [HRAnkit](https://github.com/hrankit)
