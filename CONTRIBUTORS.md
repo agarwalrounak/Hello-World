@@ -121,6 +121,7 @@
 - [Tim Solokha](https://github.com/TimSolokha)
 - [tonzsm](https://github.com/tonzsm)
 - [tulika kundu](https://github.com/tulikakundu)
+- [Tushar Jayanti](https://github.com/tusharjayanti)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
