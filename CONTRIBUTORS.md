@@ -133,6 +133,7 @@
 - [Tooler](https://github.com/Tooler2)
 - [tulika kundu](https://github.com/tulikakundu)
 - [Tushar Jayanti](https://github.com/tusharjayanti)
+- [UndefendedGuy](https://github.com/UndefendedGuy)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
