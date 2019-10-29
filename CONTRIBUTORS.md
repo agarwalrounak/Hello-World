@@ -41,6 +41,7 @@
 - [chudau](https://github.com/chudau)
 - [DzunN86](https://github.com/DzunN86)
 - [Elijah Shackelford](https://github.com/eshack94)
+- [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
 - [Gagandeep Sing](https://github.com/gagan0183)
