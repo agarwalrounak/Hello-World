@@ -10,6 +10,7 @@
 - [Alan Jereb](https://github.com/BirokratskaZila)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
+- [andakawa](https://github.com/andakawa)
 - [André Cristian de Oliveira](https://github.com/acristoliv)
 - [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
