@@ -42,6 +42,7 @@
 - [drmyuu](https://github.com/drmyuu)
 - [chudau](https://github.com/chudau)
 - [DzunN86](https://github.com/DzunN86)
+- [drunkedMonkey](https://github.com/drunkedMonkey)
 - [Elijah Shackelford](https://github.com/eshack94)
 - [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
