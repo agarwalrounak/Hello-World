@@ -144,5 +144,6 @@
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Anukriti Rawat](https://github.com/KratiAnu)
 
 <!-- Please follow ALPHABETICAL ORDER -->
