@@ -55,6 +55,7 @@
 - [ibin Xavier](https://github.com/dibinxavier)
 - [Iranildo Batalha](https://github.com/iranildobatalha)
 - [Jatin Narula](https://github.com/jatin96)
+- [Jesse Mayo](https://github.com/jsmayo)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [Juli Krue](https://github.com/JuliKrue)
