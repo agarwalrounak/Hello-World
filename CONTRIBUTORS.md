@@ -120,6 +120,7 @@
 - [Tarun Kumar](https://github.com/tarun1642)
 - [Taylor Gagne](https://github.com/taylor009)
 - [TheSolution90](https://github.com/thesolution90)
+- [Thomas Scharke](https://github.com/tscharke)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
 - [Tooler](https://github.com/Tooler2)
