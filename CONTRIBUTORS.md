@@ -90,6 +90,7 @@
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Prateek kocher](https://github.com/prateekk2001)
+- [Rachael Neff] (https://github.com/raneff)
 - [Rachit Garg](https://github.com/rstar900)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
