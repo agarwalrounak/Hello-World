@@ -27,6 +27,7 @@
 - [Asmi Badole](https://github.com/asmibadole)
 - [Axel Andrian](https://github.com/AxelAndrian)
 - [Ayan Goel](https://github.com/GAyan17)
+- [Ayush Agrawal](https://github.com/ayagrwl)
 - [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
