@@ -111,6 +111,7 @@
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Sangeeta Meena](https://github.com/sangeetameena580)
+- [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
