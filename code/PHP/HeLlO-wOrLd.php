@@ -1,0 +1,3 @@
+<?PhP
+  eChO 'hElLo WoRlD!';
+?>
