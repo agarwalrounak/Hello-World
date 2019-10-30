@@ -84,6 +84,7 @@
 - [Momozor](https://github.com/momozor)
 - [Mush60](https://github.com/mush60)
 - [Mykola Balabash](https://github.com/twilderan)
+- [nasareen] (https://github.com/nasareen)
 - [Navdeep Hada](https://github.com/hadanavdeep)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [Nicolas Saavedra](http://github.com/nikokubrick)
