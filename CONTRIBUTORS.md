@@ -123,6 +123,7 @@
 - [Srajal Agrawal](https://github.com/srajalagr)
 - [Sriharan Manogaran](https://github.com/sriharan16897)
 - [Sripad](https://github.com/TVSSSRIPAD)
+- [Srinivas](https://github.com/srinivaspathipati)
 - [Surafel Hailu](https://github.com/surafelh)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Tamas Csonka](https://github.com/csnktms)
