@@ -51,6 +51,7 @@
 - [Everton Braga](https://github.com/evertonrbraga)
 - [Fachrul Razi](https://github.com/mfachrulrazy)
 - [Gagandeep Sing](https://github.com/gagan0183)
+- [Gustavo Alexandre](https://github.com/shadaw)
 - [Hans](https://github.com/hungvu193)
 - [Harsh Tank](https://github.com/harshtank)
 - [HRAnkit](https://github.com/hrankit)
