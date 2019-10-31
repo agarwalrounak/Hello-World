@@ -74,7 +74,7 @@
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
-- [Mohammad Akbar] (https://github.com/4k84r)
+- [Mohammad Akbar](https://github.com/4k84r)
 - [Manu Sharma](https://github.com/iammanusharma)
 - [Matias Baldanza](https://github.com/matiasbaldanza)
 - [Mayank Parmar](https://github.com/myk7hackon)
