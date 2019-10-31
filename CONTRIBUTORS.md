@@ -147,5 +147,6 @@
   [Vivek Praharsha](https://github.com/VPraharsha3)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Anukriti Rawat](https://github.com/KratiAnu)
 
 <!-- Please follow ALPHABETICAL ORDER -->
