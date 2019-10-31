@@ -141,6 +141,7 @@
 - [UndefendedGuy](https://github.com/UndefendedGuy)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Varun Vishal](https://github.com/varunvishal10)
+- [Veena](https://github.com/veenarawat)
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Viktoria Cseke](https://github.com/FurfurV)
