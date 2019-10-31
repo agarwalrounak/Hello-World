@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Aatif Fraz](https://github.com/frazAatif)
@@ -73,6 +73,7 @@
 - [Lejla I](https://github.com/Ley2717)
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
+- [Kanish Chugh](https://github.com/loudpredator)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Manu Sharma](https://github.com/iammanusharma)
 - [Matias Baldanza](https://github.com/matiasbaldanza)
@@ -147,5 +148,4 @@
   [Vivek Praharsha](https://github.com/VPraharsha3)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-
 <!-- Please follow ALPHABETICAL ORDER -->
