@@ -128,6 +128,7 @@
 - [Susann Baumgart](https://github.com/LadyLazorcorn)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Tamas Csonka](https://github.com/csnktms)
+- [Tanmoy Sarkar](https://github.com/tanmoyio)
 - [Tarun Kumar](https://github.com/tarun1642)
 - [Taylor Gagne](https://github.com/taylor009)
 - [TheSolution90](https://github.com/thesolution90)
