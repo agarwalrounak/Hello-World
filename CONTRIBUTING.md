@@ -34,8 +34,11 @@ Home Sweet Home.
 ### Projects
 The super cool projects that you have built. 
 
-### Hobbies & Interests
+### Hobbies & Interests6
 The super awesome things that intrigue you and bring you joy.
+
+### 4. Introduction to Open Source
+This Page should explain what Open Source actually is and should also explain why Open source is important and after that it's process and how developers can contribute to it should be specified.
 
 ### Profiles
 [![GitHub][github-img]](Link to GitHub profile) 
