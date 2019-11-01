@@ -142,6 +142,7 @@
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
+- [Victor Tisnado](https://github.com/vtisnado)
 - [viewless](https://github.com/viewless)
 - [Viktoria Cseke](https://github.com/FurfurV)
   [Vivek Praharsha](https://github.com/VPraharsha3)
