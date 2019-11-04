@@ -64,6 +64,7 @@
 - [Jesse Mayo](https://github.com/jsmayo)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
+- [jphearse](https://github.com/jphearse)
 - [Juli Krue](https://github.com/JuliKrue)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
