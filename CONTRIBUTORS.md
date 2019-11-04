@@ -71,6 +71,7 @@
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
+- [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Siddharth Raj](https://github.com/iamsidofficial)
@@ -90,7 +91,5 @@
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
-- [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
-
 
 <!-- Please follow ALPHABETICAL ORDER -->
