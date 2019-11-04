@@ -1,6 +1,7 @@
 <!-- Please follow ALPHABETICAL ORDER -->
 
 - [AAMIR AHMAD](https://github.com/sickwiz)
+- [Aarya Kulkarni](https://github.com/aaryakulkarni)
 - [Aatif Fraz](https://github.com/frazAatif)
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Abid Saleem](https://github.com/abidsal04)
