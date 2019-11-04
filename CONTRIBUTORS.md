@@ -86,6 +86,7 @@
 - [Mykola Balabash](https://github.com/twilderan)
 - [Navdeep Hada](https://github.com/hadanavdeep)
 - [Naveenraj M](https://github.com/naveenrajm7)
+- [Ng Tingwei](https://github.com/tingwei99)
 - [Nicolas Saavedra](http://github.com/nikokubrick)
 - [nilesh](https://github.com/nileshsahitya9)
 - [NischalKanishk](https://github.com/NischalKanishk)
