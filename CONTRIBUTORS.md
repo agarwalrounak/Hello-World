@@ -114,6 +114,7 @@
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
+- [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
 - [Sangeeta Meena](https://github.com/sangeetameena580)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Shishir Ghimire](https://github.com/theciceergguy)
