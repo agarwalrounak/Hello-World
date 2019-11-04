@@ -101,6 +101,7 @@
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan)
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
+- [Prajjwal Yadav](https://github.com/prajjyadav)
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachael Neff] (https://github.com/raneff)
 - [Rachit Garg](https://github.com/rstar900)
