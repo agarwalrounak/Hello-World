@@ -49,6 +49,7 @@
 - [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
+- [Ethan Roos](https://github.com/ethanr33)
 - [Everton Braga](https://github.com/evertonrbraga)
 - [Fachrul Razi](https://github.com/mfachrulrazy)
 - [Gagandeep Sing](https://github.com/gagan0183)
