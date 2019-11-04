@@ -157,5 +157,6 @@
   [Vivek Praharsha](https://github.com/VPraharsha3)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
+- [Will Gebbie](https://github.com/will-gebbie)
 
 <!-- Please follow ALPHABETICAL ORDER -->
