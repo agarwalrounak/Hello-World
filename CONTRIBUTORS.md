@@ -63,6 +63,7 @@
 - [Jatin Narula](https://github.com/jatin96)
 - [Jesse Mayo](https://github.com/jsmayo)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
+- [Josef Malacka](https://github.com/shlavocky)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [jphearse](https://github.com/jphearse)
 - [Juli Krue](https://github.com/JuliKrue)
