@@ -82,6 +82,7 @@
 - [Mehul Garg](https://github.com/gargmehul10)
 - [Micael Pereira](https://github.com/micaelalex)
 - [Misael Ma](https://github.com/MisaelMa)
+- [Mohammed Sajid Mansoori](https://github.com/sajidmansoori1998)
 - [Momozor](https://github.com/momozor)
 - [Mush60](https://github.com/mush60)
 - [Mykola Balabash](https://github.com/twilderan)
