@@ -124,6 +124,7 @@
 - [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
 - [Sangeeta Meena](https://github.com/sangeetameena580)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
+- [Scott Mercer] (https://github.com/scottmercer)
 - [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
