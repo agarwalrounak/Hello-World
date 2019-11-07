@@ -14,6 +14,7 @@
 - [André Cristian de Oliveira](https://github.com/acristoliv)
 - [Andre-Lee](https://github.com/andre-lee)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
+- [Ankit Aggarwal](https://github.com/0395ankit)
 - [Ankit Chahar](https://github.com/AnkitChahar)
 - [Ankit Garg](https://github.com/ankitgargsma)
 - [Ankit Sharma](https://github.com/AnkitSharmaOnGithub)
