@@ -53,6 +53,7 @@
 - [Ethan Roos](https://github.com/ethanr33)
 - [Everton Braga](https://github.com/evertonrbraga)
 - [Fachrul Razi](https://github.com/mfachrulrazy)
+- [Fernando Merino](https://github.com/Ferveloper)
 - [Gagandeep Sing](https://github.com/gagan0183)
 - [Gianpierre Fernandez](https://github.com/G1anpierre)
 - [Hans](https://github.com/hungvu193)
