@@ -83,6 +83,7 @@
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Manu Sharma](https://github.com/iammanusharma)
+- [Marcio Luiz Rossato Gomes](https://github.com/marciomyst)
 - [Matias Baldanza](https://github.com/matiasbaldanza)
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
