@@ -13,7 +13,7 @@ Scripting of various manual monitoring and automation.
 The super awesome things that intrigue you and bring you joy.
 
 ### Profiles
-[![GitHub][]](https://github.com/0395ankit) 
+[![GitHub][github-img]](https://github.com/0395ankit) 
 
 
 <!-- Don't edit the below 2 lines -->
