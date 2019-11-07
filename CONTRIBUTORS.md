@@ -27,6 +27,7 @@
 - [Ashutosh garg](https://gitHub.com/ashutosh321607)
 - [Ashutosh Singh](https://github.com/zohan4sh)
 - [Asmi Badole](https://github.com/asmibadole)
+- [Avish Kansakar](https://github.com/avishk1)
 - [Axel Andrian](https://github.com/AxelAndrian)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Ayush Agrawal](https://github.com/ayagrwl)
