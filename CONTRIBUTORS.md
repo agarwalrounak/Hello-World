@@ -124,6 +124,7 @@
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Ryan Cumming] (https://github.com/Goslenator7)
+- [Ryan Pittell] (https://github.com/rpittell)
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
