@@ -73,6 +73,7 @@
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [jphearse](https://github.com/jphearse)
 - [Juli Krue](https://github.com/JuliKrue)
+- [Julia Lehoux](https://github.com/JuliaLehoux)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
