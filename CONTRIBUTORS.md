@@ -1,5 +1,5 @@
 <!-- Please follow ALPHABETICAL ORDER -->
-
+- [Chathura Jayasanka](https://github.com/chathurajay1)
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Aarya Kulkarni](https://github.com/aaryakulkarni)
 - [Aatif Fraz](https://github.com/frazAatif)
