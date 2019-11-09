@@ -33,6 +33,7 @@
 - [Ayush Agrawal](https://github.com/ayagrwl)
 - [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
+- [Bhavya Verma](https://github.com/verma-bhavya)
 - [Bittu Benny](https://github.com/bittubenny123)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Camilo Caquimbo](https://github.com/camilocaquimbo)
