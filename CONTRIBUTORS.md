@@ -11,6 +11,7 @@
 - [Alan Jereb](https://github.com/BirokratskaZila)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Alok](https://github.com/Alokkumar8)
+- [Aman Sohani](https://github.com/amansohani222)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [André Cristian de Oliveira](https://github.com/acristoliv)
 - [Andre-Lee](https://github.com/andre-lee)
