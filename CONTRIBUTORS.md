@@ -111,6 +111,7 @@
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan)
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
+- [Pragyesh Jain](https://github.com/pragyeshjain)
 - [Prajjwal Yadav](https://github.com/prajjyadav)
 - [Prashant Sharma](https://github.com/Prashantique)
 - [Prateek kocher](https://github.com/prateekk2001)
