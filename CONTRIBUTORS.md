@@ -74,6 +74,7 @@
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [jphearse](https://github.com/jphearse)
 - [Juli Krue](https://github.com/JuliKrue)
+- [Justin Anthony Balaguer I](https://github.com/justinbalaguer)
 - [Karan Singh](https://github.com/karansingh97)
 - [Kaustubh J](https://github.com/thsubaku9)
 - [Kevin Ward](https://github.com/Blueward12)
