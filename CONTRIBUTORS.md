@@ -10,6 +10,7 @@
 - [Akshi Tak](https://github.com/akshitak)
 - [Alan Jereb](https://github.com/BirokratskaZila)
 - [Alyssa Columbus](https://github.com/acolum)
+- [Alok](https://github.com/Alokkumar8)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [André Cristian de Oliveira](https://github.com/acristoliv)
 - [Andre-Lee](https://github.com/andre-lee)
