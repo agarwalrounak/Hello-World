@@ -115,6 +115,7 @@
 - [NischalKanishk](https://github.com/NischalKanishk)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan)
+- [Niz Arion](https://github.com/nizarion)
 - [nymika](https://github.com/nymika)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Pragyesh Jain](https://github.com/pragyeshjain)
