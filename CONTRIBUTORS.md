@@ -17,6 +17,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [André Cristian de Oliveira](https://github.com/acristoliv)
 - [Andre-Lee](https://github.com/andre-lee)
+- [Anglina Bhambra](https://github.com/AnglinaBhambra)
 - [Aniket Sharma](https://github.com/aniketsharma00411)
 - [Ankit Aggarwal](https://github.com/0395ankit)
 - [Ankit Chahar](https://github.com/AnkitChahar)
