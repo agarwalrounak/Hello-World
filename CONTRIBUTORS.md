@@ -157,6 +157,7 @@
 - [Surafel Hailu](https://github.com/surafelh)
 - [Susann Baumgart](https://github.com/LadyLazorcorn)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
+- [Swaraj Dash](https://github.com/iamspd2)
 - [Tamas Csonka](https://github.com/csnktms)
 - [Tarun Kumar](https://github.com/tarun1642)
 - [Taylor Gagne](https://github.com/taylor009)
