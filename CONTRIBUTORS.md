@@ -119,6 +119,7 @@
 - [Niz Arion](https://github.com/nizarion)
 - [nymika](https://github.com/nymika)
 - [Patryk Palej](https://github.com/patrykpalej)
+- [Piyush Singariya](https://github.com/piyushsinagiya)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Pragyesh Jain](https://github.com/pragyeshjain)
 - [Prajjwal Yadav](https://github.com/prajjyadav)
