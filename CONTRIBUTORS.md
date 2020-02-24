@@ -169,6 +169,7 @@
 - [Thomas Scharke](https://github.com/tscharke)
 - [Thomas Windt](https://github.com/WOLFI3654)
 - [Tim Solokha](https://github.com/TimSolokha)
+- [Tomasz Kardel](https://github.com/tomeczek63960)
 - [tonzsm](https://github.com/tonzsm)
 - [Tooler](https://github.com/Tooler2)
 - [tulika kundu](https://github.com/tulikakundu)
