@@ -46,6 +46,7 @@
 - [CherryKitten](https://github.com/CherryKitten)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
+- [Crystal D.](https://github.com/dscntr17)
 - [Dallin Reeves](https://github.com/dallin91)
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Darren T](https://github.com/darrentrinh)
