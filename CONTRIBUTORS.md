@@ -119,6 +119,7 @@
 - [Ryan Cumming] (https://github.com/Goslenator7)
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
+- [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Sanatan Shrivastava](https://github.com/Sanatan-Shrivastava)
 - [Sangeeta Meena](https://github.com/sangeetameena580)
