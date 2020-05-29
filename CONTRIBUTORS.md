@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Aarya Kulkarni](https://github.com/aaryakulkarni)
@@ -112,6 +112,7 @@
 - [Nemanja Jeremic](https://github.com/nemanjajeremic)
 - [Ng Tingwei](https://github.com/tingwei99)
 - [Nicolas Saavedra](http://github.com/nikokubrick)
+- [Nihar Kanwar](https://github.com/nihar01)
 - [nilesh](https://github.com/nileshsahitya9)
 - [NischalKanishk](https://github.com/NischalKanishk)
 - [Nishant Tilve](https://github.com/Antimatter98)
