@@ -1,4 +1,4 @@
-<!-- Please follow ALPHABETICAL ORDER -->
+﻿<!-- Please follow ALPHABETICAL ORDER -->
 
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Aarya Kulkarni](https://github.com/aaryakulkarni)
@@ -10,6 +10,7 @@
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alan Jereb](https://github.com/BirokratskaZila)
+- [Alka Trivedi](https://github.com/Alka-git12)
 - [Allen P Biju](https://github.com/allenpbiju)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Alok](https://github.com/Alokkumar8)
