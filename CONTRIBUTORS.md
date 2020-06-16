@@ -76,6 +76,7 @@
 - [James](https://github.com/Trinculo54)
 - [Jatin Narula](https://github.com/jatin96)
 - [Jesse Mayo](https://github.com/jsmayo)
+- [Jyotika Bhatti](https://github.com/Jyotika999)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [John Zissimou](https://github.com/johnziss9)
 - [Josef Malacka](https://github.com/shlavocky)
