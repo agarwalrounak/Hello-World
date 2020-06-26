@@ -70,6 +70,7 @@
 - [Harsh Tank](https://github.com/harshtank)
 - [HRAnkit](https://github.com/hrankit)
 - [Homard](https://github.com/homard)
+- [Horoyoii](https://github.com/horoyoii)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [ibin Xavier](https://github.com/dibinxavier)
 - [Iranildo Batalha](https://github.com/iranildobatalha)
