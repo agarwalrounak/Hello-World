@@ -1,4 +1,4 @@
 fun main()
 {
-    println("Hello World!!! :) from kotlin")
+	println("Hello World!")
 }
