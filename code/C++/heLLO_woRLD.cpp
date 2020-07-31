@@ -1,9 +1,16 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
+void sayHelloWorld(string x){
+    cout << x << endl;
+}
+
 int main(){
-  cout<<"HELLO WORLD!"<<endl;
-  
-  return 0;
+
+    string helloworld = "Hello world!";
+    sayHelloWorld(helloworld);
+
+    return 0;
+
 }
