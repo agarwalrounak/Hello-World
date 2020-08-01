@@ -114,6 +114,7 @@
 - [Ng Tingwei](https://github.com/tingwei99)
 - [Nicolas Saavedra](http://github.com/nikokubrick)
 - [nilesh](https://github.com/nileshsahitya9)
+- [Nikhil Bhansi](https://github.com/nikhilbhansi)
 - [NischalKanishk](https://github.com/NischalKanishk)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan)
