@@ -1,6 +1,7 @@
 #include<iostream>
 
-int main(){
-  std::cout<<"Hello World"<<std::endl;
+int main()
+{
+  scout<<"Hello World"<<endl;
   return 0;
 }
