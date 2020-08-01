@@ -45,6 +45,7 @@
 - [Camilo Caquimbo](https://github.com/camilocaquimbo)
 - [Chandra Mouli](https://github.com/codechandra)
 - [CherryKitten](https://github.com/CherryKitten)
+- [Chirag Rudresh](https://github.com/chiragr15)
 - [Corbin Taylor](https://github.com/cjtaylor1990)
 - [Cresencio Flores](https://github.com/CresencioF)
 - [Dallin Reeves](https://github.com/dallin91)
