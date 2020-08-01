@@ -181,6 +181,7 @@
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Vanessa Truong](https://github.com/nessa-art)
 - [Varun Vishal](https://github.com/varunvishal10)
+- [Veena](https://github.com/veenarawat)
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vishal Arora](https://github.com/WishAllVA)
