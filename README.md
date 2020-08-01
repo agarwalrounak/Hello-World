@@ -4,7 +4,7 @@
 * Fork this repository on GitHub by clicking the <kbd><b>Fork</b></kbd> 
 button in the top right of this page. 
 
-* Clone your forked repo to your local machine.  
+* Clone your forked repository to your local machine.  
 `git clone https://github.com/YOUR-USERNAME/Hello-World.git`  
 Replace `YOUR-USERNAME` above with your GitHub username. 
 
@@ -74,7 +74,7 @@ The super awesome things that intrigue you and bring you joy.
 Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged!
 
 # What next? 
-- :star: Go ahead and star this repository if you had fun! :star:   
+- :star: Go ahead and star this repository if you had fun using it! :star:   
 - If you liked contributing to this project, please share and star this project to help as many people as possible to get started in Open Source.
 - Browse more such issues to contribute to on [GitHub](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues).
 
