@@ -136,6 +136,7 @@
 - [Ridhwik Kalgaonkar](https://github.com/ridh7)
 - [Riju Pramanik](https://github.com/pramanikriju)
 - [Ritik Gupta](https://github.com/ritik-gupta)
+- [Roman Karki](https://github.com/roman9803640949)
 - [Rory Coleman](https://github.com/RC61)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
@@ -189,5 +190,6 @@
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 - [Will Gebbie](https://github.com/will-gebbie)
+
 
 <!-- Please follow ALPHABETICAL ORDER -->
