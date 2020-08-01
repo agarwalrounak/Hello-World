@@ -182,6 +182,7 @@
 - [Vanessa Truong](https://github.com/nessa-art)
 - [Varun Vishal](https://github.com/varunvishal10)
 - [Victor Azevedo](https://github.com/victormazevedo)
+- [Victor Tisnado](https://github.com/vtisnado)
 - [viewless](https://github.com/viewless)
 - [Vishal Arora](https://github.com/WishAllVA)
 - [Viktoria Cseke](https://github.com/FurfurV)
