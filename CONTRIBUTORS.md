@@ -29,6 +29,7 @@
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Asmae Kabbaz](https://github.com/AsmaeK)
 - [Ariq Heritsa](https://github.com/Heritsam)
+- [Arushi] (https://github.com/spooktobyeet)
 - [Ashleigh Pearson](https://github.com/aasimarr)
 - [Ashutosh garg](https://gitHub.com/ashutosh321607)
 - [Ashutosh Singh](https://github.com/zohan4sh)
