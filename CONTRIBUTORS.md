@@ -175,6 +175,7 @@
 - [Tomasz Kardel](https://github.com/tomeczek63960)
 - [tonzsm](https://github.com/tonzsm)
 - [Tooler](https://github.com/Tooler2)
+- [Toshiki Kamio](https://github.com/tcamio)
 - [tulika kundu](https://github.com/tulikakundu)
 - [Tushar Jayanti](https://github.com/tusharjayanti)
 - [UndefendedGuy](https://github.com/UndefendedGuy)
