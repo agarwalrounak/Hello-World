@@ -56,6 +56,7 @@
 - [chudau](https://github.com/chudau)
 - [drunkedMonkey](https://github.com/drunkedMonkey)
 - [DzunN86](https://github.com/DzunN86)
+- [Einstein Gleeson Pinto](https://github.com/einstein156)
 - [Elijah Shackelford](https://github.com/eshack94)
 - [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
