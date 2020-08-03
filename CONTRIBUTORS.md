@@ -153,6 +153,7 @@
 - [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
+- [Shyam Praveen Singh](https://github.com/ShyamPraveenSingh)
 - [Shubhi Lohani](https://github.com/ShubhiL)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [siw3kosky](https://github.com/siw3kosky)
