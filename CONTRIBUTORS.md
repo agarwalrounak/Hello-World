@@ -177,6 +177,7 @@
 - [Tooler](https://github.com/Tooler2)
 - [tulika kundu](https://github.com/tulikakundu)
 - [Tushar Jayanti](https://github.com/tusharjayanti)
+- [Umang Agrawal](https://github.com/skylags)
 - [UndefendedGuy](https://github.com/UndefendedGuy)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Vanessa Truong](https://github.com/nessa-art)
@@ -189,5 +190,6 @@
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 - [Will Gebbie](https://github.com/will-gebbie)
+
 
 <!-- Please follow ALPHABETICAL ORDER -->
