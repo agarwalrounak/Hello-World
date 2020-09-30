@@ -177,6 +177,7 @@
 - [Tooler](https://github.com/Tooler2)
 - [tulika kundu](https://github.com/tulikakundu)
 - [Tushar Jayanti](https://github.com/tusharjayanti)
+- [Tushar Nankani](https://github.com/tusharnankani)
 - [UndefendedGuy](https://github.com/UndefendedGuy)
 - [Uyin SOlomon](https://github.com/rootleet)
 - [Vanessa Truong](https://github.com/nessa-art)
