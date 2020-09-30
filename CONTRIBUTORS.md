@@ -37,6 +37,7 @@
 - [Axel Andrian](https://github.com/AxelAndrian)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Ayush Agrawal](https://github.com/ayagrwl)
+- [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [Ayush Sinha](https://github.com/Ayusinha)
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [Bhavya Verma](https://github.com/verma-bhavya)
