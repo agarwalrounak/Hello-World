@@ -9,6 +9,7 @@
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
+- [Akshit Singh](https://github.com/ssinghakshit)
 - [Alan Jereb](https://github.com/BirokratskaZila)
 - [Alka Trivedi](https://github.com/Alka-git12)
 - [Allen P Biju](https://github.com/allenpbiju)
