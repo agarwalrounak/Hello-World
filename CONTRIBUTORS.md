@@ -189,5 +189,6 @@
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 - [Will Gebbie](https://github.com/will-gebbie)
+- [Akshat Jain](https://github.com/akshatjai258)
 
 <!-- Please follow ALPHABETICAL ORDER -->
