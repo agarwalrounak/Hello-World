@@ -96,6 +96,7 @@
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Mandeep Singh](https://github.com/deepsingh132)
 - [Manu Sharma](https://github.com/iammanusharma)
 - [Marcio Luiz Rossato Gomes](https://github.com/marciomyst)
 - [Matias Baldanza](https://github.com/matiasbaldanza)
