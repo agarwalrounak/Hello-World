@@ -51,6 +51,7 @@
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Darren T](https://github.com/darrentrinh)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
+- [Deepika Karanji](https://github.com/DeepikaKaranji)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
 - [chudau](https://github.com/chudau)
