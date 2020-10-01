@@ -149,6 +149,7 @@
 - [Sandeep Singh Negi](https://github.com/sandeepnegi1996)
 - [Sangeeta Meena](https://github.com/sangeetameena580)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
+- [schmelto](https://github.com/schmelto)
 - [Scott Mercer] (https://github.com/scottmercer)
 - [Shishir Ghimire](https://github.com/theciceergguy)
 - [Shridhar Ravi](https://github.com/shridharravi97)
