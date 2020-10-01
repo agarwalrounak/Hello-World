@@ -27,6 +27,7 @@
 - [Anna Giliaeva](https://github.com/Nekonokuro)
 - [Anna Fennley](https://github.com/Annacodes1093)
 - [Anshu Kumari](https://github.com/anshukcse)
+- [Anupama Nayak](https://github.com/anupama212)
 - [Asmae Kabbaz](https://github.com/AsmaeK)
 - [Ariq Heritsa](https://github.com/Heritsam)
 - [Ashleigh Pearson](https://github.com/aasimarr)
