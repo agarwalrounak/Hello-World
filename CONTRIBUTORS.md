@@ -66,6 +66,7 @@
 - [Fernando Merino](https://github.com/Ferveloper)
 - [Gagandeep Sing](https://github.com/gagan0183)
 - [Gianpierre Fernandez](https://github.com/G1anpierre)
+- [Gourav Kumar] (https://github.com/gouravkmar2)
 - [Hans](https://github.com/hungvu193)
 - [Harsh Tank](https://github.com/harshtank)
 - [HRAnkit](https://github.com/hrankit)
