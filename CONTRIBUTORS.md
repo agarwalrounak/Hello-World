@@ -141,6 +141,7 @@
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Ryan Cumming](https://github.com/Goslenator7)
 - [Ryan Papazoglou](https://github.com/RyanPapazoglou)
+- [Sai Akshith Vasa](https://github.com/akshith2426)
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
