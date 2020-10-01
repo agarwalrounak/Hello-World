@@ -154,6 +154,7 @@
 - [Shridhar Ravi](https://github.com/shridharravi97)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
 - [Shubhi Lohani](https://github.com/ShubhiL)
+- [Siddhant Pandey](https://github.com/itss1ddhant)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [siw3kosky](https://github.com/siw3kosky)
 - [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
