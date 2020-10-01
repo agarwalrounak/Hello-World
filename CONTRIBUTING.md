@@ -15,7 +15,7 @@ Remember to add your program in the particular language folder.
 The file name should not match with an already present file. 
 If there is no language folder, make one, then add into it. 
 
-### 2. Add your name 
+### 2. Sakshi Maheshwari 
 Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file using the below example:  
 `- [Name](Link to GitHub profile)`  
 Please follow alphabetical order.
