@@ -23,13 +23,13 @@ Please follow alphabetical order.
 ### 3. Add your profile page
 Add your profile page named `Your_Name.md` to the [profiles](profiles) directory. Here is an example to get you started:  
 ```
-## Your Name
+Abhishek
 
 ### Bio
-A short line about you. 
+i am gamer 
 
 ### Location
-Home Sweet Home.
+delhi
 
 ### Projects
 The super cool projects that you have built. 
