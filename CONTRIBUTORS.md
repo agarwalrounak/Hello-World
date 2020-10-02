@@ -75,6 +75,7 @@
 - [Iranildo Batalha](https://github.com/iranildobatalha)
 - [James](https://github.com/Trinculo54)
 - [Jatin Narula](https://github.com/jatin96)
+- [Jesse D](https://github.com/heartcut)
 - [Jesse Mayo](https://github.com/jsmayo)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [John Zissimou](https://github.com/johnziss9)
