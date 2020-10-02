@@ -41,6 +41,7 @@
 - [Bhavesh Gupta](https://github.com/bhavesh-g)
 - [Bhavya Verma](https://github.com/verma-bhavya)
 - [Bittu Benny](https://github.com/bittubenny123)
+  [Brad Harrod](https://github.com/bharrod321)
 - [CaffeinatedCod3r](https://github.com/CaffeinatedCod3r)
 - [Camilo Caquimbo](https://github.com/camilocaquimbo)
 - [Chandra Mouli](https://github.com/codechandra)
