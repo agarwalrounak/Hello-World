@@ -71,6 +71,7 @@
 - [HRAnkit](https://github.com/hrankit)
 - [Homard](https://github.com/homard)
 - [Hritik Soni](https://github.com/iamhritik55)
+- [Hungster](https://github.com/hungster)
 - [ibin Xavier](https://github.com/dibinxavier)
 - [Iranildo Batalha](https://github.com/iranildobatalha)
 - [James](https://github.com/Trinculo54)
