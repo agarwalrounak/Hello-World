@@ -119,6 +119,7 @@
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan)
 - [Niz Arion](https://github.com/nizarion)
 - [nymika](https://github.com/nymika)
+- [Pataar](https://github.com/pataar)
 - [Patryk Palej](https://github.com/patrykpalej)
 - [Piyush Singariya](https://github.com/piyushsinagiya)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
