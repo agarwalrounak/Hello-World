@@ -78,6 +78,7 @@
 - [Jesse Mayo](https://github.com/jsmayo)
 - [João Vítor Morandi Lemos](https://github.com/joaovitorml)
 - [John Zissimou](https://github.com/johnziss9)
+- [Jordan Lee](https://github.com/therealjordanlee)
 - [Josef Malacka](https://github.com/shlavocky)
 - [Joshua Prakasam](https://github.com/Joshua-Prakasam)
 - [jphearse](https://github.com/jphearse)
