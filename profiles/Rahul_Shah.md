@@ -14,3 +14,5 @@ Gaming,Coding
 
 ### Profiles
 [![GitHub][github-img]](https://github.com/Rahulshah192006/) 
+
+[github-img]: https://i.imgur.com/9I6NRUm.png
