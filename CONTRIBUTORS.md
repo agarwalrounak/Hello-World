@@ -52,6 +52,7 @@
 - [Darren T](https://github.com/darrentrinh)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
+- [Devansh Singh](https://github.com/Devansh3712)
 - [drmyuu](https://github.com/drmyuu)
 - [chudau](https://github.com/chudau)
 - [drunkedMonkey](https://github.com/drunkedMonkey)
