@@ -124,6 +124,7 @@
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Pragyesh Jain](https://github.com/pragyeshjain)
 - [Prajjwal Yadav](https://github.com/prajjyadav)
+- [Pranav Chopra](https://github.com/chopraji94)
 - [Prashant Sharma](https://github.com/Prashantique)
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachael Neff](https://github.com/raneff)
