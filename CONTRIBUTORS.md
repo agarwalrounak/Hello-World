@@ -156,6 +156,7 @@
 - [Shubhi Lohani](https://github.com/ShubhiL)
 - [Siddharth Raj](https://github.com/iamsidofficial)
 - [siw3kosky](https://github.com/siw3kosky)
+- [Sonu Saha] (https://github.com/thevirtualbuddy)
 - [Soumyadeep Sinha](https://github.com/NinjaCoderDev)
 - [Sourabh Sooraj](https://github.com/SourabhSooraj)
 - [Srajal Agrawal](https://github.com/srajalagr)
