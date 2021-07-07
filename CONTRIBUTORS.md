@@ -7,6 +7,7 @@
 - [Abid Saleem](https://github.com/abidsal04)
 - [Adarsh R](https://github.com/adarsh-qclw)
 - [Adrian Martin](https://github.com/amgdevelop)
+- [Afroz Chakure] (https://github.com/afrozchakure)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
 - [Alan Jereb](https://github.com/BirokratskaZila)
