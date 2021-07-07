@@ -189,5 +189,6 @@
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 - [Will Gebbie](https://github.com/will-gebbie)
+- [coatest](https://github.com/coatest)
 
 <!-- Please follow ALPHABETICAL ORDER -->
