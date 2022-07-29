@@ -98,6 +98,7 @@
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Manu Sharma](https://github.com/iammanusharma)
 - [Marcio Luiz Rossato Gomes](https://github.com/marciomyst)
+- [Marvin Raiser](https://github.com/GeneralMine)
 - [Matias Baldanza](https://github.com/matiasbaldanza)
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
