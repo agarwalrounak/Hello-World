@@ -6,6 +6,14 @@ I'm a computer engineering student currently working as a webdesigner at Base st
 ### Location
 Pará, Brazil.
 
+### Projects
+I'm currently working hard on Drunk Quest game project. You can see more about it here:
+GitHub: https://github.com/Call-from-Beyond/drunkquest
+Instagram: https://www.instagram.com/drunkquestgame/
+
+### Hobbies & Interests
+I love programming and discover new stuff since childhood. I also like to draw pixel art and cartoons! My favorite hobby is being a dungeon master in weekends.
+
 ### Profiles
 
 [![GitHub][github-img]](https://github.com/mdmassa)
