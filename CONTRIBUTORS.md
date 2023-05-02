@@ -50,6 +50,7 @@
 - [Dallin Reeves](https://github.com/dallin91)
 - [dark-shadow7](https://github.com/dark-shadow7)
 - [Darren T](https://github.com/darrentrinh)
+- [DaveKoly](https://github.com/DaveKoly)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
 - [drmyuu](https://github.com/drmyuu)
