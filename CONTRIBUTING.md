@@ -34,8 +34,10 @@ Home Sweet Home.
 ### Projects
 The super cool projects that you have built. 
 
-### Hobbies & Interests
+### Hobbies & Interests6
 The super awesome things that intrigue you and bring you joy.
+
+
 
 ### Profiles
 [![GitHub][github-img]](Link to GitHub profile) 
@@ -46,4 +48,7 @@ The super awesome things that intrigue you and bring you joy.
 [github-img]: https://i.imgur.com/9I6NRUm.png
 ```
 
-Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged!
+Choose one of above or all 3, make a pull request for your contributions and wait for it to be merged
+'''
+### 4. Introduction to Open Source
+This Page should explain what Open Source actually is and should also explain why Open source is important and after that it's process and how developers can contribute to it should be specified.
