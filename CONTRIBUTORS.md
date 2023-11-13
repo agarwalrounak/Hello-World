@@ -53,6 +53,7 @@
 - [DaveKoly](https://github.com/DaveKoly)
 - [Dede Saepulloh](https://github.com/dedesaepulloh)
 - [Deeksha Agrawal](https://github.com/agrawal-deeksha)
+- [dimitris1208](https://github.com/dimitris1208)
 - [drmyuu](https://github.com/drmyuu)
 - [chudau](https://github.com/chudau)
 - [drunkedMonkey](https://github.com/drunkedMonkey)
