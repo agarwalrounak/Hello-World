@@ -35,6 +35,7 @@
 - [Asmi Badole](https://github.com/asmibadole)
 - [Austin Hayford](https://github.com/Bobsizlak)
 - [Axel Andrian](https://github.com/AxelAndrian)
+- [Sumedha Koranga](https://github.com/sumedhakoranga)
 - [Ayan Goel](https://github.com/GAyan17)
 - [Ayush Agrawal](https://github.com/ayagrwl)
 - [Ayush Sinha](https://github.com/Ayusinha)
